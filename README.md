@@ -5,9 +5,10 @@
 - A software engineer from Vietnam with great interest in full-stack development, cloud computing, platform engineering, devops, and data engineering
 - More than 7 years of professional working experience from outsourcing, startup, to enterprise companies
 - Content creator on [LinkedIn](https://www.linkedin.com/in/dienbui/) and [Medium](http://medium.com/dienbui)
-- Fun fact:
+- My style and taste:
   - love spending spare time exploring technology used in daily work in-depth and following up with current technology trend.
   - proficient in public speaking, knowledge sharing, especially inspiring young generations in tech ;)
+  - I believe that: no engineer is perfect and working in software industry requires more than tech skills, do not judge an engineer solely on tech skills, soft skills are very important, and always give potential people chance and playground to prove and develop themselves
 
 ## Certifications
 

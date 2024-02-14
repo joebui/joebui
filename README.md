@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋. Welcome to my humble GitHub profile
 
-<!--
-**joebui/joebui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- A software engineer from Vietnam with great interest in full-stack development, cloud computing, platform engineering, devops, and data engineering
+- More than 7 years of professional working experience from outsourcing, startup, to enterprise companies
+- Content creator on [LinkedIn](https://www.linkedin.com/in/dienbui/) and [Medium](http://medium.com/dienbui)
+- Fun fact:
+  - love spending spare time exploring technology used in daily work in-depth and following up with current technology trend.
+  - proficient in public speaking, knowledge sharing, especially inspiring young generations in tech ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+<img src="./aws-certified-solutions-architect-associate.png" alt="drawing" width="100" height="100" /> <img src="./ckad-certified-kubernetes-application-developer.png" alt="drawing" width="100" height="100" /> <img src="./cka-certified-kubernetes-administrator.png" alt="drawing" width="100" height="100" />

@@ -12,11 +12,11 @@
  
 ## Skills and technology
 
-- Programming language: Javascript & Typescript, Python, Ruby, Golang, Java
-- Notable libraries/frameworks: React, Next.js, Express, Fastify, Apollo GraphQL, Ruby on Rails, gRPC
-- DevOps/Platform engineering tools: Jenkins, Docker, Kubernetes, Helm, Linux, GitHub, GitHub Actions, Dagger.io, Terraform
-- Cloud providers: AWS, Azure (beginner)
-- Others: public speaking, teaching and mentoring
+- **Programming language**: Javascript & Typescript, Python, Ruby, Golang, Java
+- **Notable libraries/frameworks**: React, Next.js, Express, Fastify, Apollo GraphQL, Ruby on Rails, gRPC
+- **DevOps/Platform engineering tools**: Jenkins, Docker, Kubernetes, Helm, Linux, GitHub, GitHub Actions, Dagger.io, Terraform
+- **Cloud providers**: AWS, Azure (beginner)
+- **Others**: public speaking, teaching and mentoring
 
 ## Certifications
 

@@ -20,4 +20,4 @@
 
 ## Certifications
 
-<img src="./aws-certified-solutions-architect-associate.png" alt="drawing" width="100" height="100" /> <img src="./ckad-certified-kubernetes-application-developer.png" alt="drawing" width="100" height="100" /> <img src="./cka-certified-kubernetes-administrator.png" alt="drawing" width="100" height="100" />
+<img src="./aws-certified-solutions-architect-associate.png" alt="drawing" width="150" height="150" /> <img src="./ckad-certified-kubernetes-application-developer.png" alt="drawing" width="150" height="150" /> <img src="./cka-certified-kubernetes-administrator.png" alt="drawing" width="150" height="150" />

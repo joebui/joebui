@@ -8,7 +8,7 @@ A friendly neighborhood tech geek, software engineer specialized in full-stack, 
 - Graduated from [RMIT University](https://www.rmit.edu.vn/) with Bachelor of Information Technology - Application Programming with Distiction degree
 - 8 years of professional working experience, starting as full-stack engineer after university graduation and now devops and platform engineer.
 - Content creator on [LinkedIn](https://www.linkedin.com/in/dienbui/) and [Medium](https://medium.com/dienbui)
-- My style and taste:
+- My passion and career path:
   - love spending spare time exploring technology used in daily work in-depth and following up with current technology trend.
   - proficient in public speaking, knowledge sharing, especially inspiring young generations in tech.
   - continuing to enhance my knowledge and experience in devops, cloud, platform engineering.

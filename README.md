@@ -24,6 +24,7 @@ A friendly neighborhood tech geek, software engineer specialized in full-stack, 
 
 - **Programming language**: Javascript, Typescript, Python, Ruby, Golang (entry-level), Java (entry-level)
 - **Libraries/frameworks**: React, Next.js, Express, Fastify, Apollo GraphQL, Ruby on Rails, FastAPI, gRPC (entry-level)
+- **Database**: PostgreSQL, MySQL
 - **DevOps tools**: Jenkins, Docker, Kubernetes, Helm, Linux, GitHub, GitHub Actions, Dagger.io, Terraform
 - **Cloud providers**: AWS, Azure (entry-level)
 - **Others**: public speaking, teaching and mentoring

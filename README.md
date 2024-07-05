@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋 . I am Dien
 
-I'm Dien, a friendly neighborhood tech geek, software engineer specialized in full-stack, cloud and platform engineering.
+A friendly neighborhood tech geek, software engineer specialized in full-stack, cloud and platform engineering.
 
 ## About me
 

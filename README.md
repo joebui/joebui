@@ -16,7 +16,7 @@ A friendly neighborhood tech geek, software engineer specialized in full-stack, 
 
 ## What I'm working on?
 
-💼 Senior Platform Engineer @ [National Australia Bank](https://www.nab.com.au/). Previous worked at: [SalesHood](https://saleshood.com/), [Nash Tech Global](https://www.nashtechglobal.com/)
+💼 Systems Engineer @ [Commonwealth Bank](https://www.commbank.com.au/). Previous worked at: [SalesHood](https://saleshood.com/), [Nash Tech Global](https://www.nashtechglobal.com/), [National Australia Bank](https://www.nab.com.au/)
 
 🧑‍💻 Co-founder and engineer of [Project Cocoon](https://projectcocoon.org/)
 
